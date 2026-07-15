@@ -5,7 +5,7 @@ I am a 4th-year Computer Science & Engineering student at Madan Mohan Malaviya U
 ## 🛠️ Tech Stack
 - **Languages:** C++, Python, JavaScript, SQL
 - **Machine Learning:** TensorFlow, Keras, Computer Vision, Scikit-Learn
-- **Backend & Web:** FastAPI, Node.js, HTML5, CSS3
+- **Backend & Web:** FastAPI,Streamlit, HTML5, CSS3
 - **Problem Solving:** Data Structures & Algorithms, Competitive Programming
 
 ## 🚀 What I'm Building
